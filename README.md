@@ -3,7 +3,7 @@
 GeoViewer is a comprehensive mapping widget for Mendix applications that enables powerful geospatial visualization capabilities.
 
 
-![GeoViewer Image](docs/img/Routes%20&%20Markers.png)
+![GeoViewer Image](docs/img/Basic.png.png)
 
 ## Start guide
 
