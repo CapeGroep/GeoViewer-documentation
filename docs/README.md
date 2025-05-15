@@ -1,9 +1,9 @@
-# VoyagerMap Widget for Mendix
+# GeoViewer Widget for Mendix
 
-Voyager Map is a comprehensive mapping widget for Mendix applications that enables powerful geospatial visualization capabilities.
+GeoViewer is a comprehensive mapping widget for Mendix applications that enables powerful geospatial visualization capabilities.
 
 
-![VoyagerMap Image](img/Routes%20&%20Markers.png)
+![GeoViewer Image](img/Basic.png)
 
 ### Core Mapping Features:
 
@@ -24,4 +24,4 @@ Rich marker event handling for click, hover, and selection interactions
 Popup information windows for detailed feature data display
 Custom event triggers for integrating map actions with your application logic
 
-Voyager Map seamlessly bridges the gap between simple mapping needs and complex GIS requirements, making it an ideal solution for applications requiring location-based visualization and interaction in the Mendix ecosystem.
+GeoViewer seamlessly bridges the gap between simple mapping needs and complex GIS requirements, making it an ideal solution for applications requiring location-based visualization and interaction in the Mendix ecosystem.
